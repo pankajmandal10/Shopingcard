@@ -1,4 +1,4 @@
-Project Live Here [https://pankajmandal10.github.io/Shopingcard/.]
+Project Live Here https://pankajmandal10.github.io/Shopingcard/.
 
 ## Available Scripts
 
