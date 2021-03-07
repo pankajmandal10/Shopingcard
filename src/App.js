@@ -19,6 +19,8 @@ class App extends React.Component{
             <Section />
             <switch>
             {/* <Route exact path="/search" component= {SearchBar} /> */}
+            <Route exact path="/home" component= {Home} />
+            <Route exact path="/product" component= {Product} />
             <Route exact path="/Login" component= {Login} />
             <Route exact path="/signup" component= {SignUp} />
             <Redirect to="/" />
