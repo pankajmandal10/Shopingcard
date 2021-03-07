@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Shopingcard/static/css/main.2926e1e8.chunk.css",
+    "main.css": "/Shopingcard/static/css/main.b5923237.chunk.css",
     "main.js": "/Shopingcard/static/js/main.3f166d86.chunk.js",
     "main.js.map": "/Shopingcard/static/js/main.3f166d86.chunk.js.map",
     "runtime-main.js": "/Shopingcard/static/js/runtime-main.1dba6005.js",
@@ -9,10 +9,10 @@
     "static/js/2.ce528ff0.chunk.js": "/Shopingcard/static/js/2.ce528ff0.chunk.js",
     "static/js/2.ce528ff0.chunk.js.map": "/Shopingcard/static/js/2.ce528ff0.chunk.js.map",
     "index.html": "/Shopingcard/index.html",
-    "precache-manifest.6084870432da6524b0dadb9d6716aec1.js": "/Shopingcard/precache-manifest.6084870432da6524b0dadb9d6716aec1.js",
+    "precache-manifest.8b001e0376c4b6011d87ca1867257a31.js": "/Shopingcard/precache-manifest.8b001e0376c4b6011d87ca1867257a31.js",
     "service-worker.js": "/Shopingcard/service-worker.js",
     "static/css/2.83c7b7e9.chunk.css.map": "/Shopingcard/static/css/2.83c7b7e9.chunk.css.map",
-    "static/css/main.2926e1e8.chunk.css.map": "/Shopingcard/static/css/main.2926e1e8.chunk.css.map",
+    "static/css/main.b5923237.chunk.css.map": "/Shopingcard/static/css/main.b5923237.chunk.css.map",
     "static/js/2.ce528ff0.chunk.js.LICENSE.txt": "/Shopingcard/static/js/2.ce528ff0.chunk.js.LICENSE.txt",
     "static/media/bars-solid.svg": "/Shopingcard/static/media/bars-solid.b3f49afd.svg",
     "static/media/font-awesome.min.css": "/Shopingcard/static/media/fontawesome-webfont.fee66e71.woff",
@@ -23,7 +23,7 @@
     "static/js/runtime-main.1dba6005.js",
     "static/css/2.83c7b7e9.chunk.css",
     "static/js/2.ce528ff0.chunk.js",
-    "static/css/main.2926e1e8.chunk.css",
+    "static/css/main.b5923237.chunk.css",
     "static/js/main.3f166d86.chunk.js"
   ]
 }
