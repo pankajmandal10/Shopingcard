@@ -21,6 +21,7 @@ class App extends React.Component{
             {/* <Route exact path="/search" component= {SearchBar} /> */}
             <Route exact path="/Login" component= {Login} />
             <Route exact path="/signup" component= {SignUp} />
+            <Redirect to="/" />
             </switch>
         </Router>
         </div>
