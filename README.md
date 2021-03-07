@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project [Live Here](https://pankajmandal10.github.io/Shopingcard/).
 
 ## Available Scripts
 
